@@ -1,0 +1,6 @@
+generators/ErrorsInStringGenerator.java
+ generators.ErrorsInStringGenerator
+generators/FakeDataGenerator.java
+ generators.FakeDataGenerator
+main/Main.java
+ main.Main
